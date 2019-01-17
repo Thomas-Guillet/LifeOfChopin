@@ -1,0 +1,28 @@
+{
+	"interestData": [{
+			"pointName": "Żelazowa Wola",
+			"year": 1810,
+			"infos": "lol c'est drôle",
+			"x": 0.87,
+			"y": 1.37,
+			"z": -3.51
+        },
+        {
+			"pointName": "Varsovie",
+			"year": 1811,
+			"infos": "ahahahahahah",
+			"x": 0.82,
+			"y": 1.37,
+			"z": -3.51
+		},
+        {
+			"pointName": "Paris",
+			"year": 1830,
+			"infos": "lol c'est drôle",
+			"x": 1.6,
+			"y": 1.25,
+			"z": -3.51
+		}
+	]
+
+}
